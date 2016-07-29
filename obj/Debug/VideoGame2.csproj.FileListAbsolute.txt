@@ -1,0 +1,9 @@
+C:\Users\Nate\Desktop\VideoGame2\bin\Debug\VideoGame2.exe.config
+C:\Users\Nate\Desktop\VideoGame2\bin\Debug\VideoGame2.exe
+C:\Users\Nate\Desktop\VideoGame2\bin\Debug\VideoGame2.pdb
+C:\Users\Nate\Desktop\VideoGame2\obj\Debug\VideoGame2.Form1.resources
+C:\Users\Nate\Desktop\VideoGame2\obj\Debug\VideoGame2.Properties.Resources.resources
+C:\Users\Nate\Desktop\VideoGame2\obj\Debug\VideoGame2.csproj.GenerateResource.Cache
+C:\Users\Nate\Desktop\VideoGame2\obj\Debug\VideoGame2.exe
+C:\Users\Nate\Desktop\VideoGame2\obj\Debug\VideoGame2.pdb
+C:\Users\Nate\Desktop\VideoGame2\obj\Debug\VideoGame2.csprojResolveAssemblyReference.cache
